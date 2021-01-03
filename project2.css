@@ -41,8 +41,8 @@ span{
 				border:nane;
 }
 
-#male, #female, #other,
-#name-label, #email-label, #number-label, #dropdown-label, #select-label{
+#male, #female, #other
+#name-label,#email-label, #number-label, #dropdown-label, #select-label{
 				margin-left:3em;
 }
 .space{
