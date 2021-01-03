@@ -1,0 +1,83 @@
+ body {
+				background-image:ak.jpg;
+				color:#bfbfff;
+}
+#survay{
+				position: absolute;
+				top:0;
+				left:0;
+				width:100%;
+				height:71em;
+				margin:none;
+				padding:0;
+				background-color:rgb(0,0,0,0.5);
+}
+.form-inner{
+				padding-top:3em;
+}
+#title{
+				font-align:center;
+				font-size:50px;
+				font-family:'Bowlby One SC',cursive;
+}
+span{
+				color:red;
+}
+#discription{
+				text-align:center;
+				text-size:21;
+				text-famil:'Sorts Mill Goudy',serif;
+}
+#survey-form{
+				width:39em;
+				height:859px;
+				background-color:rgb(0,0,0,0.9);
+}
+#name,#email, #number, #dropdown{
+				margin-left:5em;
+				margin-top:1em;
+				height:32px;
+				width:20em;
+				border:nane;
+}
+
+#male, #female, #other,
+#name-label, #email-label, #number-label, #dropdown-label, #select-label{
+				margin-left:3em;
+}
+.space{
+				nargin-top:29px;
+      
+}
+#space{
+  margin-left:35px;
+    }
+.space-se{
+				nargin-top:3em;
+}
+.text-area{
+				margin-left:6em;
+				height:6em;
+				width:24em;
+				
+}
+#submit{
+				margin-left:6em;
+				margin-top:3em;
+				height:45px;
+				width:10em;
+				border-radius:50px;
+				border:none;
+				background-color:red;
+        text-align:center;
+				color:#5bff15;
+				cursor:pointer;
+				}
+				#submit:hover{
+								background:#fff;
+								color:red;
+          
+				}
+        #btn-submit{
+          text-align:center;
+          }
