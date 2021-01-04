@@ -42,7 +42,7 @@ span{
 				border:none;
 }
 
-#male, #female, #other
+#male, #female, #other,
 #name-label,#email-label, #number-label, #dropdown-label, #select-label{
 				margin-left:3em;
 }
